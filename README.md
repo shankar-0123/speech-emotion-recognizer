@@ -84,7 +84,7 @@ VITE_BACKEND_URL=http://localhost:5000
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Authors
-- [Manikanta](https://github.com/manikanta2026)
+- [Shankar](https://github.com/shankar-0123)
 
 ## Acknowledgments  
 - TensorFlow team for the deep learning framework
